@@ -85,3 +85,14 @@ def createState(): # This is a function
     state.printState()
 
 createState()
+
+'''
+hw:
+
+1. verify date is in format MM/DD/YYYY
+2. add  function to search by first name
+3. add  function to search by last name
+4. create a state class with name capital and populatioin
+5. create a list of states and write a function that finds the state with the biggest population
+
+'''
